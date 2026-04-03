@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya👋
 
-I am a full-stack web developer and final-semester student based in India. I love building practical, scalable web applications and have a strong interest in integrating AI to solve real-world problems. Whether it's developing platforms that scale to tens of thousands of users or competing in hackathons, I enjoy turning ideas into reality.
+I am a full-stack web developer and final year student based in India. I love building practical, scalable web applications and have a strong interest in integrating AI to solve real-world problems. Whether it's developing platforms that scale to tens of thousands of users or competing in hackathons, I enjoy turning ideas into reality.
 
 ### 🛠️ Tech Stack & Skills
 * **Frontend:** React, Next.js, HTML, CSS, JavaScript, Tailwind CSS
